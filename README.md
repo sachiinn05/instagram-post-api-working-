@@ -1,4 +1,4 @@
-# [ Instagram-post-api-working-](https://instagram-post-sachin.netlify.app/)
+# [ Instagram-post-api-working-](https://instgram-post.netlify.app/)
 
 
 Project Title: Instagram Post Interface
